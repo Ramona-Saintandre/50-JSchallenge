@@ -7,7 +7,7 @@ html {
 }
 
 body {
-    background: url(/JS-Countdown/image/GCAHBC\ logo.jpg) 50% 50%;
+    background: url(https://www.grandcircus.co/wp-content/uploads/2019/07/GC_GR_FE_AH_Partnership_2019-Final.png) 50% 50%;
     background-size: cover;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -26,27 +26,27 @@ body h1 {
     color: rgb(8, 49, 185);
 }
 
-/* .container h1 {
+.container h1 {
     text-transform: uppercase;
     font-size: 55px;
     margin: 0;
     letter-spacing: 2px;
-} */
+}
 
-/* .container h2 {
+.container h2 {
     margin: 0;
     font-size: 40px;
     font-weight: 500;
     font-style: italic;
     color: aqua;
-} */
+}
 
-/* .count {
+.count {
     margin: 50px 0;
     color: rgb(17, 44, 167);
-} */
+}
 
-/* .countdown {
+.countdown {
     display: inline-block;
     width: 80px;
     height: 80px;
@@ -56,11 +56,11 @@ body h1 {
     color:red;
     border-radius: 50%;
     overflow: hidden;
-} */
+}
 
-/* .countdown span{
+.countdown span{
     display: block;
     font-size: 26px;
     margin-top: 14px;
 
-} */
+}
