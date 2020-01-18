@@ -7,7 +7,7 @@ html {
 }
 
 body {
-    background: url(/JS-Countdown/image/GCcirclelogo.png) 50% 50%;
+    background: url(/JS-Countdown/image/GCAHBC\ logo.jpg) 50% 50%;
     background-size: cover;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -23,7 +23,7 @@ body h1 {
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-    color: white;
+    color: rgb(8, 49, 185);
 }
 
 .container h1 {
@@ -43,21 +43,24 @@ body h1 {
 
 .count {
     margin: 50px 0;
+    color: rgb(17, 44, 167);
 }
 
-.countdown {
+/* .countdown {
     display: inline-block;
     width: 80px;
     height: 80px;
     border: 5px solid;
     margin: 0 30px;
     font-size: 13px;
+    color:red;
     border-radius: 50%;
     overflow: hidden;
-}
-.countdown span{
+} */
+
+/* .countdown span{
     display: block;
     font-size: 26px;
     margin-top: 14px;
 
-}
+} */
