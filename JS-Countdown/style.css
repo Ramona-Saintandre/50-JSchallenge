@@ -26,25 +26,25 @@ body h1 {
     color: rgb(8, 49, 185);
 }
 
-.container h1 {
+/* .container h1 {
     text-transform: uppercase;
     font-size: 55px;
     margin: 0;
     letter-spacing: 2px;
-}
+} */
 
-.container h2 {
+/* .container h2 {
     margin: 0;
     font-size: 40px;
     font-weight: 500;
     font-style: italic;
     color: aqua;
-}
+} */
 
-.count {
+/* .count {
     margin: 50px 0;
     color: rgb(17, 44, 167);
-}
+} */
 
 /* .countdown {
     display: inline-block;
