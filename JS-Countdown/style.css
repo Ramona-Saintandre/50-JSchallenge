@@ -29,7 +29,7 @@ body h1 {
 .container h1 {
     text-transform: uppercase;
     font-size: 75px;
-    margin-top: 45px;
+    margin-bottom: 25rem;
     letter-spacing: 2px;
 }
 
