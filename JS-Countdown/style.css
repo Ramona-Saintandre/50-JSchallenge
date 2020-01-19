@@ -13,7 +13,7 @@ body {
 }
 
 body h1 {
-    color: wheat;
+    color: rgb(3, 81, 117);
 }
 
 .container {
@@ -23,7 +23,7 @@ body h1 {
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-    color: rgb(8, 49, 185);
+    color: rgb(3, 81, 117);
 }
 
 .container h1 {
@@ -38,7 +38,7 @@ body h1 {
     font-size: 100px;
     font-weight: 500;
     font-style: italic;
-    color: aqua;
+    color:  rgb(3, 81, 117);
 }
 
 .count {
@@ -50,11 +50,11 @@ body h1 {
     display: inline-block;
     width: 150px;
     height: 150px;
-    border: 15px solid;
+    border: 10px solid;
     margin: 0 30px;
     margin-top: 400px;
     font-size: 25px;
-    color:rgb(4, 92, 104);
+    color: rgb(3, 81, 117);
     border-radius: 50%;
     overflow: hidden;
 }
@@ -63,6 +63,6 @@ body h1 {
     display: block;
     font-size: 55px;
     margin-top: 14px;
-    color:rgb(128, 212, 212);
+    color: rgb(3, 81, 117);
 
 }
