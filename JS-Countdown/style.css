@@ -66,3 +66,39 @@ body h1 {
     color: rgb(3, 81, 117);
 
 }
+
+/* smoke text */
+section{
+    height: 100vh;
+    background:#000;
+    /* opacity: .2; */
+}
+.smoke{
+  margin: 0;
+  padding:0 ;  
+  position: absolute;
+  top:50%;
+  transform:translate(-5);
+  width: 100%;
+  text-align: center;
+  color: #ddd;
+  font-size: 5em;
+  font-family: sans-serif;
+  letter-spacing: 0.3em;
+
+}
+.smoke span{
+    display: inline-block;
+    animation: animate 1s linear infinite;
+    
+}
+@keyframes animate
+{
+    0%
+    {
+        opacity: 0;
+    }
+    0%{
+        opacity: 0;
+    }
+}
