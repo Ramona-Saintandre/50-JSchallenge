@@ -74,6 +74,10 @@ section {
     /* opacity: .2; */
 }
 
+video {
+    object-fit: cover;
+}
+
 .smoke {
     margin: 0;
     padding: 0;
