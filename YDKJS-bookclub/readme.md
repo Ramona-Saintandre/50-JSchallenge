@@ -1,8 +1,8 @@
 1/19/2020
 
-``` js 
-First meetup of the book club
-```
+ 
+<font color=#800080, >***First meetup for the book club***</font>
+
 [Alp](https://twitter.com/mhmtakifalp) - moderator - from Turkey, most experienced . 
 he works with Angular and JS 
 
