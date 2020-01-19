@@ -10,7 +10,7 @@ he works with Angular and JS
 I understand JS, but I am having a issue , with putting it together. 
 It is like once I see JS, my mind just goes blank. 
 So like Elliot is saying I am trying to find my learning style 
-https://github.com/Ramona-Saintandre
+
 
 [Eliot](https://twitter.com/techieEliot) - I'm from MS in the US. I teach technology and p.e. while attending a bootcamp. I'm looking to go fulltime in web development this summer. I've been learning web development on my own for a couple of years
 
