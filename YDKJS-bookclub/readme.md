@@ -3,7 +3,7 @@
 ``` js 
 First meetup of the book club
 ```
-Alp - moderator - from Turkey, most experienced . 
+[Alp](https://twitter.com/mhmtakifalp) - moderator - from Turkey, most experienced . 
 he works with Angular and JS 
 
 [Ramona Saintandre](https://github.com/Ramona-Saintandre) - I am a helpdesk coordinator, I have been learing frontend development for about a year now. 
@@ -12,7 +12,7 @@ It is like once I see JS, my mind just goes blank.
 So like Elliot is saying I am trying to find my learning style 
 https://github.com/Ramona-Saintandre
 
-Eliot - I'm from MS in the US. I teach technology and p.e. while attending a bootcamp. I'm looking to go fulltime in web development this summer. I've been learning web development on my own for a couple of years
+[Eliot](https://twitter.com/techieEliot) - I'm from MS in the US. I teach technology and p.e. while attending a bootcamp. I'm looking to go fulltime in web development this summer. I've been learning web development on my own for a couple of years
 
 Ashley
 
@@ -24,9 +24,6 @@ Lesley -  I'm a Business Analyst by day with a background in Enterprise Hardware
 I started going through freecodecamp and I do want to do some personal coding projects so I decided I wanted to learn more about web development and javascript
 
 Martins Aloba - I work for a company as a Frontend developer using React and also do a bit of backend
-
-
-
 
 We discussed about creating a group in discord, so that we can stay in contact. 
 Not sure how when we meetup on sunday if we can stay as a group, so that we can form relationships
