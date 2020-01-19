@@ -38,12 +38,12 @@ body h1 {
     font-size: 100px;
     font-weight: 500;
     font-style: italic;
-    color:  rgb(3, 81, 117);
+    color: rgb(3, 81, 117);
 }
 
 .count {
     margin: 50px 0 0 0;
-    
+
 }
 
 .countdown {
@@ -59,7 +59,7 @@ body h1 {
     overflow: hidden;
 }
 
-.countdown span{
+.countdown span {
     display: block;
     font-size: 55px;
     margin-top: 14px;
@@ -68,37 +68,43 @@ body h1 {
 }
 
 /* smoke text */
-section{
+section {
     height: 100vh;
-    background:#000;
+    background: #000;
     /* opacity: .2; */
 }
-.smoke{
-  margin: 0;
-  padding:0 ;  
-  position: absolute;
-  top:50%;
-  transform:translate(-5);
-  width: 100%;
-  text-align: center;
-  color: #ddd;
-  font-size: 5em;
-  font-family: sans-serif;
-  letter-spacing: 0.3em;
+
+.smoke {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 50%;
+    transform: translate(-5);
+    width: 100%;
+    text-align: center;
+    color: #ddd;
+    font-size: 5em;
+    font-family: sans-serif;
+    letter-spacing: 0.2em;
+    /* opacity: 0; */
+}
+
+.smoke span { 
+    opacity: 0;
+    display: inline-block;
+    animation: animate 1s linear forwards;
 
 }
-.smoke span{
-    display: inline-block;
-    animation: animate 1s linear infinite;
-    
-}
-@keyframes animate
-{
-    0%
-    {
+
+@keyframes animate {
+    0% {
         opacity: 0;
+        transform: rotateY(90deg);
+        filter: blur(10px);
     }
-    0%{
-        opacity: 0;
+
+    100% {
+        opacity: 1;
+        transform: rotateY(0deg);
     }
 }
