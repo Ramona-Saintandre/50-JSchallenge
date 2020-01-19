@@ -78,7 +78,7 @@ section {
     margin: 0;
     padding: 0;
     position: absolute;
-    top: 50%;
+    top: 30%;
     transform: translate(-5);
     width: 100%;
     text-align: center;
@@ -106,5 +106,6 @@ section {
     100% {
         opacity: 1;
         transform: rotateY(0deg);
+        filter: blur(0px);
     }
 }
