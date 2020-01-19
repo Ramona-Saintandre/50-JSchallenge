@@ -22,6 +22,7 @@ var x = setInterval(function () {
 
     if (distance < 0) {
         clearInterval(x);
+        document.getElementsByClassName("counter").innerHTML = "WAY TO GO YOU MADE IT"
 
     }
 }, 1000);
