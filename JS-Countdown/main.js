@@ -1,7 +1,7 @@
 // Display the countdown timer in an element //
 
 
-var countDownDate = new Date("Jan 5, 2021 15:37:25").getTime();
+var countDownDate = new Date("Mar 27, 2020 15:37:25").getTime();
 var x = setInterval(function () {
     var now = new Date().getTime();
 
@@ -18,8 +18,7 @@ var x = setInterval(function () {
     document.getElementById("seconds").innerHTML = seconds;
 
 
-    //   document.getElementById("demo").innerHTML = days + "d " + hours + "h "
-    //   + minutes + "m " + seconds + "s ";
+   
 
     if (distance < 0) {
         clearInterval(x);
