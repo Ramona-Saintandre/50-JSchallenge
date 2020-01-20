@@ -1,0 +1,76 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+@import url(https://fonts.googleapis.com/css?family=Bigshot+One:regular);
+body,
+html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+   font-family: 'poppins',sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background: url(https://www.grandcircus.co/wp-content/uploads/2019/07/GC_GR_FE_AH_Partnership_2019-Final.png) 50% 50%;
+    background-size: cover;
+    
+}
+
+body h1 {
+    color: rgb(3, 81, 117);
+}
+
+.container {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: rgb(3, 81, 117);
+    font-family: 'Bigshot+One:regular',sans-serif;
+}
+
+.container h1 {
+    text-transform: uppercase;
+    font-size: 75px;
+    margin-bottom: 25rem;
+    letter-spacing: 2px;
+    
+}
+
+.container h2 {
+    margin-bottom: 13rem;
+    font-size: 100px;
+    font-weight: 500;
+    font-style: italic;
+    color: rgb(3, 81, 117);
+}
+
+.count {
+    margin: 50px 0 0 0;
+
+}
+
+.countdown {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    border: 10px solid;
+    margin: 0 30px;
+    margin-top: 400px;
+    font-size: 25px;
+   
+    color: rgb(3, 81, 117);
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.countdown span {
+    display: block;
+    font-size: 55px;
+    margin-top: 14px;
+    color: rgb(3, 81, 117);
+
+}
+
