@@ -4,9 +4,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Thinkful Webinar | Intro to JavaScript: Build a Guessing Game</title>
+    <link rel="stylesheet" href="styles.css">
+		<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
+    <!-- JavaScript -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script type="text/javascript" src="/JS-guessinggame/style.css"></script>
+    <title>Document</title>
 </head>
 <body>
-    
+    <div class="game">
+        <header>
+          <h1>Number Guessing Game</h1>
+        </header>
+        <form class="guessingForm">
+          <input name="user-guess" id="js-user-guess" class="text" max="100" min="1" autocomplete="off" placeholder="Enter a number 0 and 100" required/>
+          <input type="submit" id="js-guess-submit" class="button" />
+        </form>
+        <p class="responseText"></p>
+        <p class="guessCount"></p>  
+      </div>
 </body>
 </html>
