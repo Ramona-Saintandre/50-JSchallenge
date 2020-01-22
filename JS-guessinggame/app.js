@@ -1,6 +1,10 @@
 let ranNum = Math.floor(Math.random() *100)+1;
 
-const guess = document.querySelector('.guess')
+const guess = document.querySelector('.guess');
+const lastResult = document.querySelector('.lastResult');
+const hotOrCold = document.querySelector('.hotOrcold');
+
+const submitGuess = document.querySelector('#')
 
 // from thinkful
 
