@@ -26,6 +26,10 @@
    object-fit: cover;
 }
 
+.arrows-visiablity{
+    opacity: 0;
+}
+
 .control {
     position: absolute;
     top: 0;
