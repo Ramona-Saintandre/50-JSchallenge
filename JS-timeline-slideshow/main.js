@@ -17,3 +17,14 @@ slides.forEach(slide =>{
 });
 };
 
+// making the play button work
+const playPause =() =>{
+    setInterval(() =>{
+        current++;
+        changeSlides()
+    },3000);
+}
+
+// calling the function
+changeSlides();
+playPause();
