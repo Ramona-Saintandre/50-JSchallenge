@@ -52,14 +52,14 @@
     background-color: #ddd5d5;
 }
 
-/* .line-1 {
+.line-1 {
     transform: rotate(20deg) translateY(.35rem);
     
 }
 
 .line-2 {
     transform: rotate(-20deg)translateY(-.35rem);
-} */
+}
 
 .line-3 {
     transform: rotate(-20deg) translateY(.35rem);
