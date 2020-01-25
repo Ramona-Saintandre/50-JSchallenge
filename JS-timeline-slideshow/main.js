@@ -18,11 +18,11 @@ slides.forEach(slide =>{
 };
 
 // making the play button work
-const playPause =() =>{
+const playPause =() => {
     if(playPauseBool){
        interval = setInterval(() =>{
             current++;
-            changeSlides()
+            changeSlides();
         },3000);
       
     playPauseBool = false;
@@ -30,8 +30,23 @@ const playPause =() =>{
     clearInterval(interval);
     playPauseBool =true;
 }
+playPauseBtn();
 };
 
+//  creating the pause button
+
+const playPauseBtn = ()=> {
+    const icon = document.querySelector('.play-pause i');
+
+    const cls = icon.classList[1]
+    if (cls === 'fa-play'){
+        icon.classList.remove('fa-play');
+        icon.classList.add('fa-pause');
+    }else{
+        icon.classList.remove('fa-pause');
+        icon.classList.add('fa-play');
+    }
+};
 
 
 // make play button work
