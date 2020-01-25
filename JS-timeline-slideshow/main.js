@@ -32,7 +32,13 @@ const playPause =() =>{
 }
 };
 
+
+
 // make play button work
+document.querySelector('.play-pause')
+.addEventListener('click',()=>{
+    playPause();
+});
 
 // calling the function
 changeSlides();
