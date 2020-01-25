@@ -19,11 +19,20 @@ slides.forEach(slide =>{
 
 // making the play button work
 const playPause =() =>{
-    setInterval(() =>{
-        current++;
-        changeSlides()
-    },3000);
+    if(playPauseBool){
+       interval = setInterval(() =>{
+            current++;
+            changeSlides()
+        },3000);
+      
+    playPauseBool = false;
+}else{
+    clearInterval(interval);
+    playPauseBool =true;
 }
+};
+
+// make play button work
 
 // calling the function
 changeSlides();
