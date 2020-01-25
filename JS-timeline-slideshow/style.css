@@ -76,7 +76,7 @@
 }
 
 .line-4 {
-    transform: rotate(20deg)translateY(.35rem);
+    transform: rotate(20deg)translateY(-.35rem);
 }
 .play-pause{
     position: absolute;
