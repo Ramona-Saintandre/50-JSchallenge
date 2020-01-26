@@ -1,4 +1,4 @@
-##Group 1
+## Group 1
 
 **Ramona**  
 **Jonf Croston iii**   
@@ -36,9 +36,10 @@ We looked the diffence between function expression and function   declaration
 
 https://i.stack.imgur.com/bCrSm.png  
 
-We covered IFFE - immediately invoked function   
-Alp went over async, and callbacks   
+We covered IFFE - immediately invoked function     
+Alp went over async, and callbacks     
 https://snipboard.io/g8oe9h.jpg  
+
 https://snipboard.io/Se9Mfp.jpg  
 
 
