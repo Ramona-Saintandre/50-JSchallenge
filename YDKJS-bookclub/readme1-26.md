@@ -1,13 +1,12 @@
 ##Group 1
 
-**Ramona 
-Jonf Croston iii 
-Ebiz 
-Mehmet 
-Sam Joehl
-sampatbraide
-
-Manuael Alp**
+**Ramona**  
+**Jonf Croston iii**   
+**Ebiz**   
+**Mehmet**   
+**Sam Joehl**  
+**sampatbraide**   
+**Manuael Alp**
 
 **var** is for global scope 
 
